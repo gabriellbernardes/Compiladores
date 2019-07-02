@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="antlr-runtime-3.5.2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../compiladores-master/CompiladorQplpl/plugins/antlr-runtime-3.5.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../compiladores-master/CompiladorQplpl/plugins/antlr4-4.7.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../compiladores-master/CompiladorQplpl/plugins/antlr4-intellij-adaptor-0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../compiladores-master/CompiladorQplpl/plugins/antlr4-runtime-4.7.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../compiladores-master/CompiladorQplpl/plugins/intellij-plugin-v4-1.10.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../compiladores-master/CompiladorQplpl/plugins/javax.json-1.0.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../compiladores-master/CompiladorQplpl/plugins/org.abego.treelayout.core-1.0.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../compiladores-master/CompiladorQplpl/plugins/ST4-4.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

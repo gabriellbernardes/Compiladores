@@ -1,0 +1,10 @@
+package ast;
+public enum OperadorUnario{
+    NOT,
+    MAIS,
+    MENOS,
+    INCREMENTOESQUERDA,
+    INCREMENTODIREITA,
+    DECRESCIMOESQUERDA,
+    DECRESCIMODIREITA
+}
